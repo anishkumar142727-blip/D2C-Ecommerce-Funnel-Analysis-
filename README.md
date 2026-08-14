@@ -79,7 +79,7 @@ Conversion held steady in a narrow 6.6%–7.06% band across all 6 months (Jul–
 
 ## Dashboard
 
-![D2C Funnel Analysis Dashboard](./screenshots/dashboard_overview.png)
+![D2C Funnel Analysis Dashboard](./dashboard_overview.png)
 
 Interactive Tableau dashboard includes:
 - Funnel overview (session counts at each stage)
